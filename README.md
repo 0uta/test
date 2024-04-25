@@ -1,3 +1,3 @@
 # test
 松江高専webシステムのテストリポジトリ
-Git・GitHub
+Git・GitHubの基礎
